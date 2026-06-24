@@ -4,9 +4,9 @@
   "description": "Production-ready product catalog API with cursor-based pagination",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js",
-    "dev": "nodemon src/server.js",
-    "seed": "node src/scripts/seedProducts.js"
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "seed": "node backend/scripts/seedProducts.js"
   },
   "dependencies": {
     "compression": "^1.7.4",
