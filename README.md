@@ -3,7 +3,16 @@
 Production-ready Node.js/Express/MongoDB backend serving 200,000 products with **cursor-based pagination**.
 
 ---
+Deployment Status
 
+✅ Frontend deployed successfully on Vercel
+
+https://product-catalog-cursor-pagination.vercel.app
+
+✅ Backend deployed on Render
+
+https://product-catalog-api-gepc.onrender.com
+--------------------------------------------------------------------------------------------------------------------------------------
 ## Table of Contents
 
 1. [Tech Stack](#tech-stack)
